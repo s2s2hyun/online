@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8" />
+        <style>
+            p:first-child {
+                color: red;
+            }
+            p:last-child {
+                color: blue;
+            }
+            p:nth-child(2) {
+                color: green;
+            }
+            p:nth-last-child(3) {
+                color: brown;
+            }
+
+            /* p:nth-child(2n-1) , p:nth-child(2n) 짝수 홀수 등으로 표현 가능  */
+        </style>
+    </head>
+    <body>
+        <div>
+            <h1>Donghyun Lim</h1>
+            <h2>스터디 코딩</h2>
+            <div>
+                <p>스터디 코딩 개발자입니다.</p>
+                <p><span>좋은 컨텐츠와 서비스</span>를 만드는 일에 집중하고 있습니다.</p>
+                <p>새로운 기술을 익힐 때는, 아주 쉬운 부분부터 집중해서 익숙해지도록!</p>
+                <p>세세한 부분은 신경도 쓰지 말도록!</p>
+                <p>문제는 이슈가 있으면, 여러가지 테스트해보고!</p>
+                <p>문제는 이슈가 있으면, 여러가지 테스트해보고!</p>
+            </div>
+            <div>
+                <h2>first-child/last-child가 여기는 왜 안될까요?</h2>
+                <p>스터디 코딩 개발자입니다.</p>
+                <p><span>좋은 컨텐츠와 서비스</span>를 만드는 일에 집중하고 있습니다.</p>
+                <p>새로운 기술을 익힐 때는, 아주 쉬운 부분부터 집중해서 익숙해지도록!</p>
+                <p>세세한 부분은 신경도 쓰지 말도록!</p>
+                <p>문제는 이슈가 있으면, 여러가지 테스트해보고!</p>
+                <p>문제는 이슈가 있으면, 여러가지 테스트해보고!</p>
+                <h2>first-child/last-child가 여기는 왜 안될까요?</h2>
+            </div>
+        </div>
+    </body>
+</html>

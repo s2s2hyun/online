@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8" />
+        <style>
+            /* indeterminate 한번도 선택이 되지 않는 상태  */
+            input[type="radio"]:indeterminate + span {
+                color: red;
+            }
+            input[type="radio"]:checked + span {
+                color: orange;
+            }
+            input[type="checkbox"]:enabled + span {
+                color: blue;
+            }
+            input[type="checkbox"]:disabled + span {
+                color: green;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <h1>Donghyun LIM</h1>
+            <a href="https:/typiano.co.kr/">코딩공부</a>
+            <form action="https:/typiano.co.kr/" method="get">
+                <input type="radio" value="item1" name="item" /><span>item1</span><br />
+                <input type="radio" value="item2" name="item" /><span>item2</span><br />
+
+                <input type="checkbox" value="check1" name="check" /><span>check1</span><br />
+                <input type="checkbox" value="check2" name="check" disabled /><span>check2</span
+                ><br />
+
+                <input type="text" id="data" name="data" /><br />
+                <input type="submit" value="Submit" />
+            </form>
+        </div>
+    </body>
+</html>

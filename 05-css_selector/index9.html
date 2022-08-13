@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8" />
+        <style>
+            /* input 에 타입 텍스트가 작성되지 않으면 붉은색  */
+            input[type="text"]:invalid {
+                background-color: red;
+            }
+            /* input 에 타입 텍스트가 작성되면 노랑색  */
+            input[type="text"]:valid {
+                background-color: yellow;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Donghyun Lim</h1>
+        <h2>스터디코딩</h2>
+        <form action="https://typiano.co.kr">
+            <input type="text" id="id" name="id" pattern="[0-9]{6}" required />
+            <!-- pattern="[0-9]{6}" 숫자 0~9 까지 6자리 숫자 적용 패턴  -->
+            <input type="submit" />
+        </form>
+    </body>
+</html>
