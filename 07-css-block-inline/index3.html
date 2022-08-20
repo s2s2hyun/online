@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+        <div style="background-color: red; width: 200px">블록 <span>레벨</span> 요소</div>
+        <br />
+        <span style="background-color: red; width: 200px"
+            >블록
+            <div>레벨</div>
+            요소
+        </span>
+        <span style="background-color: red; width: 200px; display: block"
+            >블록
+            <div>레벨</div>
+            <!-- span 태그안에 div 태그를 inline 로 담을수 없다 그래서 span 블록 / div 레벨 / span 레벨 / span 레벨 요소 라고 표기되어져 보인다 / <- 는 1줄씩 띄어져보이는 Open with live server 클릭시 볼수있다.  -->
+            <span>레벨</span>
+            요소
+        </span>
+    </body>
+</html>
