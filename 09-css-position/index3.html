@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8" />
+        <style>
+            div {
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                border: 2px solid #f2b441;
+                border-radius: 10px;
+            }
+            .box1 {
+                background: #f2d541;
+                position: absolute;
+                top: 10px;
+                left: 10px;
+            }
+            .box2 {
+                background: #5fb6d9;
+                position: absolute;
+                top: 10px;
+                left: 120px;
+            }
+            .box3 {
+                background: #d90404;
+                position: absolute;
+                top: 10px;
+                left: 240px;
+            }
+            .box4 {
+                position: absolute;
+                top: 10px;
+                left: 360px;
+
+                background: #3b9cd9;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box1" style="overflow: visible">
+            잔재미코딩이 가장 고퀄이고, 만족도도 높았으면 좋겠다. 모두를 만족시키기 보다 정말 많은
+            분들에게 효과가 있었으면
+        </div>
+        <div class="box2" style="overflow: hidden">
+            잔재미코딩이 가장 고퀄이고, 만족도도 높았으면 좋겠다. 모두를 만족시키기 보다 정말 많은
+            분들에게 효과가 있었으면
+        </div>
+        <div class="box3" style="overflow: scroll">
+            잔재미코딩이 가장 고퀄이고, 만족도도 높았으면
+        </div>
+        <div class="box4" style="overflow: auto">잔재미코딩이 가장 고퀄이고, 만족도도 높았으면</div>
+    </body>
+</html>
