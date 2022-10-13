@@ -9,5 +9,3 @@
 # CSS 반응형 
 
 # Javascript (VanilaJS)
-
-# CSS 공부 반복학습 
