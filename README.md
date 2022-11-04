@@ -47,3 +47,6 @@ popup_조회하기. svg
 
 
 
+![Btn_Close_Modal_Horverd](https://user-images.githubusercontent.com/100761993/199931102-b5b2c7f5-97bb-44f5-8a67-d8816eacc09d.svg)
+
+
