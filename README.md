@@ -14,39 +14,37 @@
 
 
 box 테스터 신청하기 svg 
-![Box_테스터신청하기](https://user-images.githubusercontent.com/100761993/199928804-799e6874-9184-4cee-ab42-6690c21adae5.svg)
+
+![Box_테스터신청하기](https://user-images.githubusercontent.com/100761993/199942070-5d63464d-b7cf-4d8c-a54c-e5ecc68c1b94.svg)
 
 
 btn close _hoverd.svg
 
-![Btn_Close_Horverd](https://user-images.githubusercontent.com/100761993/199928820-69471d58-6c12-4816-9af0-295c6c2074c4.svg)
+![Btn_Close_Modal_Horverd](https://user-images.githubusercontent.com/100761993/199942089-d38becda-0976-4dc9-b978-f0afa9b1ea99.svg)
+
 
 btn close normal .svg
 
-![Btn_Close_Normal](https://user-images.githubusercontent.com/100761993/199928827-4b9e67fc-1855-4d3d-b748-8b81ff9e3c27.svg)
 
 btn 조회하기.svg
-![Btn_조회하기](https://user-images.githubusercontent.com/100761993/199928836-f067655b-9e45-4a34-9aef-b7ffdc6e9a5e.svg)
+
+![Btn_조회하기](https://user-images.githubusercontent.com/100761993/199942104-74b9c6a8-7303-4968-b870-4c9eaf74b58f.svg)
 
 
 btn 테스터 신청하기 .svg
-![Btn_테스터신청하기](https://user-images.githubusercontent.com/100761993/199928842-56bb46eb-e031-4f34-b535-1197d6757ffa.svg)
+
+![Btn_테스터신청하기](https://user-images.githubusercontent.com/100761993/199942140-5037d14b-9092-44f4-be3b-af4e9b7cb775.svg)
 
 
 btn 확인 .svg
 
+![Btn_확인](https://user-images.githubusercontent.com/100761993/199942154-a7677de4-a7f5-433b-a85d-299bbe4a74bb.svg)
 
-![Btn_확인](https://user-images.githubusercontent.com/100761993/199928852-9c714833-18e2-4f5c-905f-624f9aeace6b.svg)
 
 
 popup_조회하기. svg
-
-![Popup_조회하기](https://user-images.githubusercontent.com/100761993/199928860-4c57e8c4-e417-4be3-a90f-0d5be09f199e.svg)
-
+![Popup_조회하기](https://user-images.githubusercontent.com/100761993/199942164-9c62edf9-38af-429b-a3d2-c6b525d1a5e3.svg)
 
 
-
-
-![Btn_Close_Modal_Horverd](https://user-images.githubusercontent.com/100761993/199931102-b5b2c7f5-97bb-44f5-8a67-d8816eacc09d.svg)
 
 
