@@ -14,4 +14,5 @@
 
 
 ##### Fatal Bomb 소개
-![Box_스킬정보 svg](https://user-images.githubusercontent.com/100761993/200480317-9a2cfda7-b1c8-427e-b07a-378dae696477.svg)
+
+![Line_테스터모집](https://user-images.githubusercontent.com/100761993/200484822-2329ea9d-1865-4c1a-bc8a-d4ac5ffaecb0.svg)
