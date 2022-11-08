@@ -19,11 +19,11 @@
 
 
 
-![FatalZone](https://user-images.githubusercontent.com/100761993/200529930-9ea6b8aa-b867-4c3c-b8b9-b1f5c1ebb224.svg)
+
+![FatalTower_7F_Normal](https://user-images.githubusercontent.com/100761993/200532432-a8bc76d5-4ef1-4fa3-9034-5b28fe6d4b3f.svg)
 
 
+![FatalTower_B3F_Normal](https://user-images.githubusercontent.com/100761993/200532436-ea41ca62-9bc2-4b4b-8468-c52dcbf23423.svg)
 
-![FatalZone_설명](https://user-images.githubusercontent.com/100761993/200529937-ff49943a-c338-49cd-b4aa-e3f0994b1368.svg)
 
-
-![가까운 미래, 무너진 세계 속의 페이탈 존_pc](https://user-images.githubusercontent.com/100761993/200529946-2e9c48b7-42ea-42c1-ad98-23b988d7d524.svg)
+![FatalTower_B7F_Normal](https://user-images.githubusercontent.com/100761993/200532439-96765dc1-d46e-4856-8dcf-f8b1c1680689.svg)
