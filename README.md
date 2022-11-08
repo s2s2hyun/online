@@ -15,4 +15,9 @@
 
 ##### Fatal Bomb 소개
 
-![헤일로_Pc](https://user-images.githubusercontent.com/100761993/200525257-abd2ccc6-b0d5-4bd9-9c2c-88fe940ac258.svg)
+
+
+
+
+
+![Floor_Line](https://user-images.githubusercontent.com/100761993/200529803-c1117870-0fdd-4241-8b48-1c505d256d4d.svg)
