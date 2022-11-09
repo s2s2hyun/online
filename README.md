@@ -17,7 +17,23 @@
 
 
 
-![Btn_Close_Horverd](https://user-images.githubusercontent.com/100761993/200560309-69229c9b-a288-41b0-84eb-8fb188c718e9.svg)
+테스터 신청하기 
+
+![Box_테스터신청하기](https://user-images.githubusercontent.com/100761993/200757053-d5e3b47c-414a-4090-bac6-f1a62d5e78d2.svg)
 
 
-![Btn_Close_Normal](https://user-images.githubusercontent.com/100761993/200560323-a935d6e0-5efa-4c48-9b90-a48820e0c17d.svg)
+조회하기 
+
+
+![Btn_조회하기](https://user-images.githubusercontent.com/100761993/200757082-4fa00267-797f-422b-82d2-41e84990fae3.svg)
+
+
+테스터 신청하기 
+
+![Btn_테스터신청하기](https://user-images.githubusercontent.com/100761993/200757150-422546b7-50df-4a30-8abb-bcb8e478dc62.svg)
+
+
+조회하기 
+![Popup_조회하기](https://user-images.githubusercontent.com/100761993/200757207-4a20fc64-061d-4354-9e55-a2371649a5dd.svg)
+
+
