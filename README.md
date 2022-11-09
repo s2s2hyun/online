@@ -17,23 +17,17 @@
 
 
 
-테스터 신청하기 
-
-![Box_테스터신청하기](https://user-images.githubusercontent.com/100761993/200757053-d5e3b47c-414a-4090-bac6-f1a62d5e78d2.svg)
+![Box_스킬정보](https://user-images.githubusercontent.com/100761993/200775318-b41b5bc8-c416-45e8-884e-f9f497a1be3c.svg)
 
 
-조회하기 
+![Graph_Allisha](https://user-images.githubusercontent.com/100761993/200775326-eba3658e-f945-4eff-b55c-5183a5b804d1.svg)
 
 
-![Btn_조회하기](https://user-images.githubusercontent.com/100761993/200757082-4fa00267-797f-422b-82d2-41e84990fae3.svg)
+
+![Graph_Cindy](https://user-images.githubusercontent.com/100761993/200775328-8d2974d5-e6ce-47ee-893c-bace2ada7547.svg)
 
 
-테스터 신청하기 
-
-![Btn_테스터신청하기](https://user-images.githubusercontent.com/100761993/200757150-422546b7-50df-4a30-8abb-bcb8e478dc62.svg)
+![Graph_Grady](https://user-images.githubusercontent.com/100761993/200775333-df2f5f34-02a0-4f4d-9149-546770a35820.svg)
 
 
-조회하기 
-![Popup_조회하기](https://user-images.githubusercontent.com/100761993/200757207-4a20fc64-061d-4354-9e55-a2371649a5dd.svg)
-
-
+![Graph_Ollie](https://user-images.githubusercontent.com/100761993/200775336-3d368e28-4a76-4c78-b652-1227aae50351.svg)
